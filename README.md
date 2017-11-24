@@ -24,4 +24,5 @@ JRE/JDK 7：http://www.oracle.com/technetwork/java/javase/downloads/jce-7-downlo
 JRE/JDK 8：http://www.oracle.com/technetwork/java/javase/downloads/jce8-download-2133166.html
 
 如果安装了JRE，将两个jar文件放到$JAVA_HOME/lib/security目录下覆盖原来的文件
+
 如果安装了JDK，将两个jar文件放到$JAVA_HOME/jre/lib/security目录下覆盖原来文件
