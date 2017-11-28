@@ -11,9 +11,6 @@
 	<description>weixin mp multi demo with spring MVC</description>
 	<url>https://github.com/wechat-group/weixin-java-mp-multi-demo</url>
 	<properties>
-	    <!--<maven.compiler.source>2.3.2</maven.compiler.source>-->
-	    <!--<maven.compiler.target>2.3.2</maven.compiler.target>-->
-
 		<weixin-java-mp.version>2.8.8.BETA</weixin-java-mp.version>
 		<spring.version>4.3.2.RELEASE</spring.version>
 		<spring-security.version>4.1.3.RELEASE</spring-security.version>
