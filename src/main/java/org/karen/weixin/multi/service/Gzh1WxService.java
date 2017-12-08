@@ -2,8 +2,6 @@ package org.karen.weixin.multi.service;
 
 import org.karen.weixin.multi.config.WxConfig;
 import org.karen.weixin.multi.config.WxGzh1Config;
-import com.github.binarywang.demo.spring.handler.*;
-import com.github.binarywang.demo.spring.handler.gzh1.*;
 import org.karen.weixin.multi.handler.*;
 import org.karen.weixin.multi.handler.gzh1.*;
 import org.springframework.beans.factory.annotation.Autowired;

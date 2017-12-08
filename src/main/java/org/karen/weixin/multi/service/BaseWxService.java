@@ -1,7 +1,5 @@
 package org.karen.weixin.multi.service;
 
-import org.karen.weixin.multi.config.WxConfig;
-import com.github.binarywang.demo.spring.handler.*;
 import me.chanjar.weixin.mp.api.WxMpInMemoryConfigStorage;
 import me.chanjar.weixin.mp.api.WxMpMessageRouter;
 import me.chanjar.weixin.mp.api.impl.WxMpServiceImpl;
@@ -9,6 +7,7 @@ import me.chanjar.weixin.mp.bean.kefu.result.WxMpKfOnlineList;
 import me.chanjar.weixin.mp.bean.message.WxMpXmlMessage;
 import me.chanjar.weixin.mp.bean.message.WxMpXmlOutMessage;
 import me.chanjar.weixin.mp.constant.WxMpEventConstants;
+import org.karen.weixin.multi.config.WxConfig;
 import org.karen.weixin.multi.handler.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

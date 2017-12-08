@@ -2,7 +2,7 @@ package org.karen.weixin.multi.service;
 
 import org.karen.weixin.multi.config.WxConfig;
 import org.karen.weixin.multi.config.WxGzh2Config;
-import com.github.binarywang.demo.spring.handler.*;
+import org.karen.weixin.multi.handler.*;
 import org.karen.weixin.multi.handler.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
